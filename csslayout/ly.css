@@ -1,28 +1,33 @@
-.main{
+.main {
     background-color: aqua;
-    padding: 10px 20px ;
-    margin-left: 0px;
-    margin-right: 0px;
-    height: 60%;
-    width: 60%;
+    padding: 10px 50px;
+    background-size: 100% 100%;
 }
-.logo{
+
+.logo {
+    display: flex;
     background-color: aquamarine;
     margin-left: 0px;
     margin-right: 0px;
     height: 100px;
     margin-bottom: 2%;
+    justify-content: left;
 
 }
-.navv{
-    background-color: rgb(0, 21, 255);
+
+.navv {
+    display: flex;
+    background-color: rgb(72, 0, 255);
     margin-left: 0px;
     margin-right: 0px;
     height: 75px;
     margin-bottom: 2%;
     text-align: center;
+    align-items: center;
+    justify-content: center;
 }
-.header{
+
+.header {
     display: flex;
     background-color: rgb(130, 0, 252);
     margin-left: 0px;
@@ -32,10 +37,11 @@
     text-align: center;
     align-items: center;
     justify-content: center;
-    
+
 
 }
-.side{
+
+.side {
 
     display: flex;
     background-color: azure;
@@ -45,23 +51,24 @@
     text-align: center;
     align-items: center;
     justify-content: center;
-    
+
 
 }
 
-.bodys{
+.bodys {
     display: flex;
     background-color: blanchedalmond;
-    margin-left: 15px;
-    width: 70%;
+    margin-left: 10%;
+    width: 60%;
     height: 400px;
     margin-bottom: 2%;
     text-align: center;
     align-items: center;
     justify-content: center;
-    
+
 }
-.foot{
+
+.foot {
     display: flex;
     text-align: center;
     align-items: center;

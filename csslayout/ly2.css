@@ -1,0 +1,97 @@
+.main {
+    background-color: rgb(221, 219, 246);
+    padding: 25PX 10PX;
+}
+
+.ln {
+    background-color: rgb(141, 243, 209);
+    height: 50px;
+    margin-bottom: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+
+}
+
+.logo {
+    display: flex;
+    margin-left: 5%;
+    text-align: center;
+    align-items: center;
+
+}
+
+.navi {
+    display: flex;
+    margin-left: 82%;
+    text-align: center;
+    align-items: center;
+}
+
+.hb {
+    margin-left: 3%;
+    margin-right: 3%;
+    display: flex;
+    background-color: bisque;
+    height: 150px;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 3%;
+    justify-content: center;
+
+}
+
+.intro{
+    margin-left: 3%;
+    margin-right: 3%;
+    display: flex;
+    background-color: blueviolet;
+    height: 75px;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 3%;
+    justify-content: center;
+}
+.box1{
+    margin-left: 3%;
+    margin-right: 10%;
+    height: 200px;
+    background-color: rgb(103, 103, 246);
+    width: 30%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.box2{
+    height: 200px;
+    background-color: rgb(103, 103, 246);
+    width: 30%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.box3{
+    
+    margin-right: 3%;
+    margin-left: 10%;
+    height: 200px;
+    background-color: rgb(103, 103, 246);
+    width: 30%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.foot{
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    background-color: aqua;
+    height: 40px;
+    margin-bottom: 5%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}

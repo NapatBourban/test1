@@ -1,0 +1,140 @@
+.main {
+    height: 130vh;
+    background-color: rgb(255, 255, 255);
+    padding: 0px 20px 0px 0px 0px;
+}
+
+.header {
+    height: 50px;
+    background-color: rgb(71, 69, 69);
+    margin-bottom: 3%;
+}
+
+.left {
+    width: 70%;
+    height: 111vh;
+    margin-left: 2%;
+}
+
+.right {
+    width: 23%;
+    height: 111vh;
+    margin-left: 2%;
+}
+
+.tab1left {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    margin-bottom: 3%;
+
+}
+
+.longbox {
+    width: 30%;
+    height: 105vh;
+    border: 2px;
+    margin-top: 5%;
+    border-color: rgb(156, 155, 155);
+    border-style: solid;
+
+}
+
+.tab2left {
+    margin-top: 5%;
+    width: 70%;
+    height: 100vh;
+    margin-right: 2%;
+
+}
+
+.tabhead {
+    width: 225px;
+    height: 40px;
+    background-color: rgb(78, 77, 77);
+    margin-bottom: 2%;
+}
+
+.tabhd {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tabbox {
+    width: 225px;
+    height: 150px;
+    background-color: rgb(58, 57, 57);
+    margin-bottom: 2%;
+}
+
+.partition {
+    width: 100%;
+    height: 10px;
+    background-color: rgb(66, 65, 65);
+    margin-bottom: 2%;
+}
+
+.tabtext {
+    width: 225px;
+    height: 100px;
+    margin-bottom: 2%;
+    border-color: rgb(1, 1, 1);
+    border-style: solid;
+
+}
+
+.tablongbox {
+    margin-top: 3%;
+    width: 100%;
+    height: 200px;
+    background-color: rgb(83, 83, 82);
+}
+
+.bigbox {
+    width: 100%;
+    height: 45%;
+    background-color: rgb(116, 116, 116);
+    margin-bottom: 5%;
+}
+
+.tab1right {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(0, 0, 0);
+    margin-bottom: 2%;
+}
+
+.picandtext {
+    width: 100%;
+    height: 225px;
+    margin-bottom: 2%;
+    display: flex;
+    border-color: rgb(1, 1, 1);
+    border-style: solid;
+}
+
+.pic {
+    width: 45%;
+    height: 60%;
+    background-color: rgb(114, 114, 113);
+
+}
+
+hr {
+    height: 5px;
+    background-color: rgb(6, 6, 6);
+}
+
+.boxfinal {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(92, 94, 94);
+    margin-bottom: 0%;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
