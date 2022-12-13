@@ -125,12 +125,7 @@ hr {
     background-color: rgb(6, 6, 6);
 }
 
-.boxfinal {
-    width: 100%;
-    height: 40px;
-    background-color: rgb(92, 94, 94);
-    margin-top: 50%;
-}
+
 
 .text {
     display: flex;
